@@ -7,6 +7,8 @@ Requirements:
  1) Flume 1.4 +
 
 Configuration:
+
+
         agent.sources = twitter-source
         agent.channels = memoryChannel
  
